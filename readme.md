@@ -1,5 +1,6 @@
 ## Overall
 Project is using cargo workspace to be able to share some types between front-end and back-end.
+The user is store in session.
 
 ## Front-end
 Yew, TailwindCSS, yew_websocket
